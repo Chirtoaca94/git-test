@@ -2,4 +2,4 @@
 
 my first GitHub repo
 
-Hello Odin!
+Please ignore this repo and check out my other repos and projects!
