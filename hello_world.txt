@@ -1,0 +1,1 @@
+This is a sample text line for testing my git add and commit.
