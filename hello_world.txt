@@ -1,1 +1,3 @@
 This is a sample text line for testing my git add and commit.
+
+this is following configuring VS Code to commit changes to git
